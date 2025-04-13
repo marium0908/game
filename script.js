@@ -49,56 +49,6 @@ const quiz = [
     options: [' The end of Hajj', 'The birth of Prophet Muhammad (PBUH)', 'The sacrifice of Prophet Ibrahim', 'The start of the Islamic New Year'],
     answer: "Option A10"
   },
-  {
-    question: "What percentage of their savings are Muslims required to give to charity?",
-    options: ['1%', '2.5%', '10%', '80%'],
-    answer: "2.5%"
-  },
-  {
-    question: "What is the name of the first revelation Angel?",
-    options: ['Jibrail (A.S.) ', 'Mikail (A.S.)', 'Israfil (A.S.)', 'Azrael (A.S.)'],
-    answer: "Jibrail (A.S.) "
-  },
-  {
-    question: "How many Surahs are there in the Quran?",
-    options: ['110', '120', '114', '300'],
-    answer: "Option A13"
-  },
-  {
-    question: "What is the Arabic name of the pilgrimage to Mecca?",
-    options: ['Zakat', 'Haji', 'Fasting', 'Sadaqah'],
-    answer: "Option A14"
-  },
-  {
-    question: "What is the name of Prophet Muhammad's (PBUH) mother?",
-    options: ['Halima', 'Amina', 'Fatema', 'Asia'],
-    answer: "Option A15"
-  },
-  {
-    question: " What is the Arabic term for charity in Islam?",
-    options: ['Zakat', 'Sawm', 'Haji', 'Salat'],
-    answer: "Zakat"
-  },
-  {
-    question: " What is the name of the Prophet Muhammad’s (PBUH) first wife??",
-    options: ['Aisha(R.A.)', 'Khadija(R.A.)', 'Zainab(R.A.)', 'Fatima(R.A.)'],
-    answer: "Option A17"
-  },
-  {
-    question: "What does the word "Islam" mean?",
-    options: ['Peace', 'Submittion', 'Guidance', 'Broterhood'],
-    answer: "Submittion"
-  },
-  {
-    question: "What is the name of the Islamic greeting?",
-    options: ['Solom', 'Hola', 'Salam', 'Adab'],
-    answer: "Salam"
-  },
-  {
-    question: "What does the word "Zakat" mean in English?",
-    options: ['Charity', 'Fasting', 'Prayer', 'Suplication'],
-    answer: "Charity"
-  },
   
 ];
 

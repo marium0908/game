@@ -19,37 +19,7 @@ const quiz = [
     options: ["Bible", "Quran", "Torah", "Vedas"],
     answer: "Quran"
   }
-  {
-    question: "Who was the first Prophet in Islam?",
-    options: ['Prophet Muhammad (PBUH)', 'Prophet Ibrahim (Abraham)', ' Prophet Adam','Prophet Musa (Moses)'],
-    answer: "Prophet Adam"
-  },
-  {
-    question: "Which city is known as the birthplace of Prophet Muhammad (PBUH)?",
-    options: ['Jerusalem', ' Mecca', 'Madina', 'Mairo'],
-    answer: "Mecca"
-  },
-  {
-    question: "In which battle did Prophet Muhammad (PBUH) first participate as a leader?",
-    options: ['Battle of Uhud', 'Battle of Badr', 'Battle of Khandaq', 'Battle of Hunayn'],
-    answer: "Battle of Badr"
-  },
-  {
-    question: "How many pillars of Islam are there?",
-    options: ['5', '3', '2', '7'],
-    answer: "5"
-  },
-  {
-    question: "What is the festival that marks the end of Ramadan?",
-    options: ['Eid al-Adha', 'Eid al-Fitr', 'Mawlid', 'Haji'],
-    answer: "Eid al-Fitr"
-  },
-  {
-    question: "What do Muslims celebrate during Eid al-Adha?",
-    options: [' The end of Hajj', 'The birth of Prophet Muhammad (PBUH)', 'The sacrifice of Prophet Ibrahim', 'The start of the Islamic New Year'],
-    answer: "Option A10"
-  },
-  
+
 ];
 
 let currentQuestion = 0;
